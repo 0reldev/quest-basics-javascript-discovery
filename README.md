@@ -1,2 +1,5 @@
-# quest-basics-javascript-discovery
-Educational exercice from Wild Code School introducing a very first approach of JavaScript language.
+# Quest "Basics of JavaScript 1 - Langugae discovery"
+
+## Educational exercice from Wild Code School 
+
+This quest introduces the JavaScript language.
